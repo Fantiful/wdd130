@@ -228,3 +228,43 @@ h4 {
         margin-top: 25px;
     }
 }
+
+.faq-header {
+    text-align: center;
+    padding: 20px 700px;
+    color: #FE6D73 ;
+    font-family: Fredoka, Helvetica, sans-serif;
+}
+.faq_header h1 {
+      font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.faq-header p {
+    font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+#page2_hero-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+    position: relative;
+}
+#page2_hero_img {
+     width: 100%;
+     display: block;
+}
+.hero_text {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+.hero_text h2 {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+.hero_text p {
+    max-width: 400px;
+    font-size: 14px;
+    right: 0%;
+}
