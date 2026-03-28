@@ -93,6 +93,9 @@ h2 {
     margin: 0;
 }
 h4 {
+    color: #121417;
+}
+p {
     color: #1E6F5C;
 }
 header {
@@ -210,7 +213,7 @@ footer .social img {
 }
 .home-title {
     font-size: 2em;
-    color: #FE6D73 ;
+    color: #1E6F5C ;
     font-family: Fredoka, Helvetica, sans-serif;
     margin-top: 10px;
 }
@@ -377,7 +380,4 @@ footer .social img {
 .side_card img {
     width: 100%;
     margin: 15px 0;
-}
-p {
-    color: #1E6F5C;
 }
