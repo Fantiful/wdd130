@@ -381,3 +381,39 @@ footer .social img {
     width: 100%;
     margin: 15px 0;
 }
+.unique_intro {
+    background-color: #121417;
+    padding: 30px;
+    border: 1px solid #3CFF9E;
+    text-align: center;
+}
+.page_3 {
+    align-items: center;
+    gap: 40px;
+    margin: 80px auto;
+    max-width: 1200px;
+    overflow: auto;
+}
+.page_3 img {
+    width: 300px;
+    margin: 0 20px 20px 0;
+    height: auto;
+    flex-shrink: 0;
+}
+.page_3.right img {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+.page_3.left img {
+    float: left;
+}
+.page_3 p {
+    flex: 1;
+    text-align: left;
+}
+.Divider {
+    width: 100%;
+    height: auto;
+    margin: 60px 0;
+    display: block;
+}
