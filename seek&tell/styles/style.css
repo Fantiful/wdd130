@@ -130,8 +130,6 @@ nav a:hover {
 }
 .card-img {
     box-shadow: 5px 5px 10px gray;
-}
-.card-img, .mountains {
     width: 100%;
 }
 .fellfall, .blood-snow, .new-way {
@@ -149,27 +147,6 @@ nav a:hover {
 .new-way {
     grid-column: 8/10;
     grid-row: 2/3;
-}
-.mountains {
-    grid-column: 2/7;
-    grid-row: 5/8;
-    box-shadow: 5px 5px 10px gray;
-}
-#background {
-    background-color: #FFCB77 ;
-    grid-column: 1/11;
-    grid-row: 4/9;
-}
-.msg {
-    background-color: #FFCB77 ;
-    line-height: 1.5em;
-    padding: 35px;
-    grid-column: 6/10;
-    grid-row: 6/7;
-    box-shadow: 5px 5px 10px gray;
-}
-.mesg h2{
-    color: #FE6D73 ;
 }
 .msg p {
     font-size: .8em;
@@ -288,18 +265,7 @@ footer .social img {
    grid-row: 9 / 10;
    margin-top: 50px;
 }
-#great-rafting {
-    padding-bottom: 20%;
-}
-#advance-booking {
-    background-color:#FE6D73
-}
-.img-cheering {
-    float: right;
-    border: 10px solid #227C9D;
-    transition: transform .5s;
-    box-shadow: 5px 5px 10px gray;
-}
+
 .msg2
 {
     background-color: #FFCB77 ;
